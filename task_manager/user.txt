@@ -1,0 +1,12 @@
+admin;password
+dave;password
+steve;password
+
+
+dad;,AY@[tKQ6g
+jyu;S}T:*S=[n=
+g;HMkczEYK+e
+steve123;.0c%#GOCe9
+user;i`wEEgo[4f
+asd;.r\-Lg*hHX
+fred;password
